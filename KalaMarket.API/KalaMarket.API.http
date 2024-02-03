@@ -1,0 +1,6 @@
+@KalaMarket.API_HostAddress = http://localhost:5108
+
+GET {{KalaMarket.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
